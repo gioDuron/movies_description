@@ -1,0 +1,200 @@
+{
+  "movie_desc": [
+    {
+      "id": 1,
+      "cine": [
+        {
+          "latitud": "21.926083",
+          "longitud": "-102.2913877",
+          "nombre": "Cinépolis Altaria",
+          "funciones": [
+            "11:00 hrs",
+            "13:00 hrs",
+            "15:00 hrs",
+            "27:00 hrs"
+          ]
+        },
+        {
+          "latitud": "21.8945672",
+          "longitud": "-102.3270492",
+          "nombre": "Cinépolis Aguascalientes",
+          "funciones": [
+            "12:00 hrs",
+            "15:00 hrs",
+            "17:00 hrs"
+          ]
+        },
+        {
+          "latitud": "21.8948243",
+          "longitud": "-102.3216769",
+          "nombre": "Cinépolis Sur Aguascalientes",
+          "funciones": [
+            "19:00 hrs",
+            "21:00 hrs",
+            "22:45 hrs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cine": [
+        {
+          "latitud": "21.926083",
+          "longitud": "-102.2913877",
+          "nombre": "Cinépolis Altaria",
+          "funciones": [
+            "12:30 hrs",
+            "14:10 hrs",
+            "15:45 hrs",
+            "22:00 hrs"
+          ]
+        },
+        {
+          "latitud": "21.8945672",
+          "longitud": "-102.3270492",
+          "nombre": "Cinépolis Aguascalientes",
+          "funciones": [
+            "14:25 hrs",
+            "16:00 hrs",
+            "18:20 hrs",
+            "20:00 hrs"
+          ]
+        },
+        {
+          "latitud": "21.8948243",
+          "longitud": "-102.3216769",
+          "nombre": "Cinépolis Sur Aguascalientes",
+          "funciones": [
+            "12:00 hrs",
+            "17:00 hrs",
+            "21:15 hrs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cine": [
+        {
+          "latitud": "21.8945672",
+          "longitud": "-102.3270492",
+          "nombre": "Cinépolis Aguascalientes",
+          "funciones": [
+            "14:00 hrs",
+            "16:00 hrs",
+            "18:00 hrs",
+            "20:00 hrs"
+          ]
+        },
+        {
+          "latitud": "21.8948243",
+          "longitud": "-102.3216769",
+          "nombre": "Cinépolis Sur Aguascalientes",
+          "funciones": [
+            "13:00 hrs",
+            "16:00 hrs",
+            "17:00 hrs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cine": [
+        {
+          "latitud": "21.926083",
+          "longitud": "-102.2913877",
+          "nombre": "Cinépolis Altaria",
+          "funciones": [
+            "12:15 hrs",
+            "15:45 hrs",
+            "19:30 hrs",
+            "22:05 hrs"
+          ]
+        },
+        {
+          "latitud": "21.8948243",
+          "longitud": "-102.3216769",
+          "nombre": "Cinépolis Sur Aguascalientes",
+          "funciones": [
+            "13:00 hrs",
+            "16:00 hrs",
+            "17:00 hrs",
+            "20:00 hrs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "cine": [
+        {
+          "latitud": "21.8948243",
+          "longitud": "-102.3216769",
+          "nombre": "Cinépolis Sur Aguascalientes",
+          "funciones": [
+            "13:00 hrs",
+            "16:00 hrs",
+            "17:00 hrs",
+            "20:00 hrs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "cine": [
+        {
+          "latitud": "21.926083",
+          "longitud": "-102.2913877",
+          "nombre": "Cinépolis Altaria",
+          "funciones": [
+            "14:00 hrs",
+            "18:00 hrs",
+            "19:30 hrs",
+            "23:00 hrs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "cine": [
+        {
+          "latitud": "21.926083",
+          "longitud": "-102.2913877",
+          "nombre": "Cinépolis Altaria",
+          "funciones": [
+            "13:00 hrs",
+            "14:00 hrs",
+            "15:00 hrs",
+            "16:00 hrs",
+            "17:00 hrs",
+            "18:00 hrs"
+          ]
+        },
+        {
+          "latitud": "21.8945672",
+          "longitud": "-102.3270492",
+          "nombre": "Cinépolis Aguascalientes",
+          "funciones": [
+            "12:15 hrs",
+            "14:35 hrs",
+            "17:00 hrs",
+            "20:10 hrs"
+          ]
+        },
+        {
+          "latitud": "21.8948243",
+          "longitud": "-102.3216769",
+          "nombre": "Cinépolis Sur Aguascalientes",
+          "funciones": [
+            "13:00 hrs",
+            "16:00 hrs"
+          ]
+        }
+      ]
+    }
+  ]
+}
